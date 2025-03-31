@@ -1,6 +1,7 @@
 # DockerHub 国内加速镜像列表
 
 [国内可用Docker镜像源加速器/DockerHub镜像汇总](https://www.wangdu.site/course/2109.html)（博客版及时更新）
+[AI,工具](https://nav.programnotes.cn)
 
 ## DockerHub是什么
 
